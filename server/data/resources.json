@@ -1,0 +1,8 @@
+[
+  { "id": "res-1", "title": "Arduino LED Blink Code", "type": "code", "description": "Basic LED blinking sketch for Arduino UNO with detailed comments", "downloadUrl": "#", "fileSize": "2 KB", "createdAt": "2024-01-15" },
+  { "id": "res-2", "title": "ESP8266 WiFi Manager Library", "type": "zip", "description": "Complete WiFi Manager library for ESP8266 NodeMCU", "downloadUrl": "#", "fileSize": "45 KB", "createdAt": "2024-01-20" },
+  { "id": "res-3", "title": "Arduino UNO Pinout Diagram", "type": "image", "description": "High-resolution Arduino UNO R3 pinout reference diagram", "downloadUrl": "#", "fileSize": "1.2 MB", "createdAt": "2024-02-01" },
+  { "id": "res-4", "title": "Sensor Library Bundle", "type": "zip", "description": "All sensor libraries for the 10 Sensors in 10 Days course", "downloadUrl": "#", "fileSize": "12 MB", "createdAt": "2024-02-10" },
+  { "id": "res-5", "title": "ESP8266 Web Server Code", "type": "code", "description": "Complete web server with HTML interface for ESP8266", "downloadUrl": "#", "fileSize": "8 KB", "createdAt": "2024-02-15" },
+  { "id": "res-6", "title": "Circuit Diagrams Pack", "type": "zip", "description": "All circuit diagrams from courses in high resolution PNG", "downloadUrl": "#", "fileSize": "25 MB", "createdAt": "2024-03-01" }
+]
